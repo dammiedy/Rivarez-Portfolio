@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-bruno-ace-sc: "Bruno Ace SC";
+  --font-limelight: Limelight;
+  --font-carattere: Carattere;
+  --font-bungee: Bungee;
+  --font-irish-grover: "Irish Grover";
+  --font-goudy-stout: "Goudy Stout";
+  --font-geostar-fill: "Geostar Fill";
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-broadway: Broadway;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-21xl: 40px;
+  --font-size-13xl: 32px;
+  --font-size-29xl: 48px;
+  --font-size-10xl: 29px;
+  --font-size-17xl: 36px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-lightgoldenrodyellow: #c5e8b9;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+
+  /* Gaps */
+  --gap-88xl: 107px;
+  --gap-13xl: 32px;
+  --gap-44xl: 63px;
+  --gap-40xl: 59px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-3xs: 10px;
+  --padding-4xl: 23px;
+  --padding-2xs: 11px;
+}
